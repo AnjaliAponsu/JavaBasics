@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GetterAndSetter.iml" filepath="$PROJECT_DIR$/GetterAndSetter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypes.iml" filepath="$PROJECT_DIR$/DataTypes.iml" />
     </modules>
   </component>
 </project>
